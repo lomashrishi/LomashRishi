@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate About Web Development I Am Currently Doing MCA [Master Of Computer Application] In Pandit Ravishankar Shukla University Raipur Chhattisgarh India... </h3><hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lomashrishi&label=Profile%20views&color=0e75b6&style=flat" alt="lomashrishi" /> </p><hr>
 <ul>
-        <li>🌱 I’m currently learning : <strong>Angular</strong></li>
+        <li>🌱 I’m currently learning : <strong>Web Development</strong></li>
         <li>📝 I regularly write articles on : <a href="https://linuxrishi.blogspot.com/" target="_blank">https://linuxrishi.blogspot.com</a></li>
         <li>💬 Ask me about : <strong>Web Development</strong></li>
         <li>📫 How to reach me : <strong><a href="mailto:LinuxRishiX@gmail.com">LinuxRishiX@gmail.com</a></strong></li>

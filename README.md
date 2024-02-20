@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm LOMASH RISHI SINHA</h1>
 <h3 align="center">A Passionate About Web Development I Am Currently Doing MCA [Master Of Computer Application] In Pandit Ravishankar Shukla University Raipur Chhattisgarh India... </h3><hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lomashrishi&label=Profile%20views&color=0e75b6&style=flat" alt="lomashrishi" /> </p><hr>
-- 🌱 I’m currently learning **Angular** 
-- 📝 I regularly write articles on [https://linuxrishi.blogspot.com/](https://linuxrishi.blogspot.com/)
-- 💬 Ask me about **Web Devlopment**
-- 📫 How to reach me **LinuxRishiX@gmail.com**
-
+<ul>
+        <li>🌱 I’m currently learning <strong>Angular</strong></li>
+        <li>📝 I regularly write articles on <a href="https://linuxrishi.blogspot.com/" target="_blank">Linux Rishi's Blog</a></li>
+        <li>💬 Ask me about <strong>Web Development</strong></li>
+        <li>📫 How to reach me <strong><a href="mailto:LinuxRishiX@gmail.com">LinuxRishiX@gmail.com</a></strong></li>
+</ul>
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/imlomashsinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imlomashsinha" height="30" width="40" /></a>

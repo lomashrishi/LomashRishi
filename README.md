@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm LOMASH RISHI SINHA</h1>
-<h3 align="center">A Passionate Web Development From India</h3>
+<h3 align="center">A Passionate Web Development From IndiaI Am Currently Doing MCA [Master Of Computer Application] In Pandit Ravishankar Shukla University Raipur Chhattisgarh... </h3>
 <hr><hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lomashrishi&label=Profile%20views&color=0e75b6&style=flat" alt="lomashrishi" /> </p>
